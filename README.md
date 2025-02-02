@@ -1,9 +1,9 @@
 # iitschholdownloadhehe thanks to hackheist
 download iitschol lecs thanks to hackheist
 all credit to my goat hackheist 
-@Sethijai
-@HACKHEISTOP
-@Opmasterod
+@Sethijai https://github.com/Sethijai/
+@HACKHEISTOP https://github.com/HACKHEISTOP/
+@Opmasterod https://github.com/Opmasterod/
 
 HOW to USE: 
 find your aacc id put where asked 
